@@ -11,5 +11,6 @@ truffle migrate --network develop
 - Run react
 ```linux
 cd client
+npm install
 npm run start
 ```
