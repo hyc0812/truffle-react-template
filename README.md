@@ -2,7 +2,8 @@
 
 ### Run the template:
 
-- Run ganache and truffle
+- Run ganache UI (CLI)
+- Run truffle
 ```linux
 truffle compile
 truffle migrate --network develop
