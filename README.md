@@ -18,4 +18,4 @@ npm run start
 ```
 
 - Screenshot of the template
-<img src="https://github.com/hyc0812/truffle-react-template/blob/master/stored_images/screenshot2.png" width="420">
+<img src="https://github.com/hyc0812/truffle-react-template/blob/master/stored_images/screenshot2.png" width="650">
