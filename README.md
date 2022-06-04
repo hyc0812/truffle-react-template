@@ -16,4 +16,6 @@ cd client
 npm install
 npm run start
 ```
-<img src="https://github.com/hyc0812/truffle-react-template/blob/master/stored_images/maketransactions.png" width="420">
+
+- Screenshot of the template
+<img src="https://github.com/hyc0812/truffle-react-template/blob/master/stored_images/screenshot2.png" width="420">
